@@ -1,2 +1,1 @@
-this is for testing for continous intigration
-God is great is the same as the following
+Godisgreat all the time so stick with him
